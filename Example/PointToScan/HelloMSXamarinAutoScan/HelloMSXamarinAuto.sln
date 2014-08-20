@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMSXamarinAuto", "HelloMSXamarinAuto\HelloMSXamarinAuto.csproj", "{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Release|iPhone.Build.0 = Release|iPhone
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{EC80EE8C-BDA9-4A86-99EB-8A26769354CB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = HelloMSXamarinAuto\HelloMSXamarinAuto.csproj
+	EndGlobalSection
+EndGlobal
