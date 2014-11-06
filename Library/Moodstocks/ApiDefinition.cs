@@ -169,19 +169,19 @@ namespace Moodstocks {
 		[Export ("origin")]
 		MSResultOrigin Origin { get; }
 
-		[Export ("data", ArgumentSemantic.Retain)]
+		[Export ("data", ArgumentSemantic.Strong)]
 		NSData Data { get; }
 
-		[Export ("string", ArgumentSemantic.Retain)]
+		[Export ("string", ArgumentSemantic.Strong)]
 		string String { get; }
 
-		[Export ("corners", ArgumentSemantic.Retain)]
+		[Export ("corners", ArgumentSemantic.Strong)]
 		NSValue Corners { get; }
 
-		[Export ("homography", ArgumentSemantic.Retain)]
+		[Export ("homography", ArgumentSemantic.Strong)]
 		NSValue Homography { get; }
 
-		[Export ("dimensions", ArgumentSemantic.Retain)]
+		[Export ("dimensions", ArgumentSemantic.Strong)]
 		NSValue Dimensions { get; }
 
 		[Export ("warpImage:block:")]
