@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Drawing;
 
-using MonoTouch.ObjCRuntime;
-using MonoTouch.Foundation;
-using MonoTouch.UIKit;
-using MonoTouch.AVFoundation;
-using MonoTouch.CoreMedia;
+using ObjCRuntime;
+using Foundation;
+using UIKit;
+using AVFoundation;
+using CoreMedia;
 
 namespace Moodstocks {
 

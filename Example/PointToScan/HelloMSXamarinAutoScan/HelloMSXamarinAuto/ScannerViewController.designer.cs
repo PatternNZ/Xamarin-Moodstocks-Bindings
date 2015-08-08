@@ -4,7 +4,7 @@
 // actions made in the UI designer. If it is removed, they will be lost.
 // Manual changes to this file may not be handled correctly.
 //
-using MonoTouch.Foundation;
+using Foundation;
 using System.CodeDom.Compiler;
 
 namespace HelloMSXamarinAuto
@@ -13,7 +13,7 @@ namespace HelloMSXamarinAuto
 	partial class ScannerViewController
 	{
 		[Outlet]
-		MonoTouch.UIKit.UIView videoPreview { get; set; }
+		UIKit.UIView videoPreview { get; set; }
 		
 		void ReleaseDesignerOutlets ()
 		{
